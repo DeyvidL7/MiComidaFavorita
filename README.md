@@ -10,6 +10,7 @@ Aplicación móvil desarrollada con React Native que permite a los usuarios gest
 - Validación de formularios
 - Almacenamiento de datos en Firestore
 - Interfaz de usuario intuitiva y moderna
+- Barra Progresiva de nivel de contraseña
 
 ## 🚀 Instrucciones de Instalación
 
@@ -21,15 +22,13 @@ Aplicación móvil desarrollada con React Native que permite a los usuarios gest
 
 2. **Clonar el Repositorio**
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/DeyvidL7/MiComidaFavorita.git
    cd MiComidaFavorita
    ```
 
 3. **Instalar Dependencias**
    ```bash
    npm install
-   # o
-   yarn install
    ```
 
 4. **Configurar Firebase**
@@ -51,21 +50,24 @@ Aplicación móvil desarrollada con React Native que permite a los usuarios gest
 - Gestión de perfil de usuario
 - Validación de formularios
 - Mensajes de error y éxito
-- Barra Progresiva de nivel de contraseña
 
 ## 📸 Screenshots
 
 ### Pantalla de Login
-![Pantalla de Login](./src/screenshot/login.png)
+![Pantalla de Login]
+<img src="./assets/login.png" alt="Login" width="300"/>
 
 ### Pantalla de Registro
-![Pantalla de Registro](./src/screenshot/profile.png)
+![Pantalla de Registro]
+<img src="./assets/register.png" alt="Register" width="300"/>
 
 ### Formulario de Actualizacion de Perfil
-![Formulario de Actualizacion de Perfil](./src/screenshot/form.png)
+![Formulario de Actualizacion de Perfil]
+<img src="./assets/form.png" alt="Form" width="300"/>
 
 ### Formulario de Actualizacion de Perfil con error
-![Formulario de Actualizacion de Perfil](./src/screenshot/form2.png)
+![Formulario de Actualizacion de Perfil]
+<img src="./assets/form2.png" alt="Form2" width="300"/>
 
 ## 🛠️ Tecnologías Utilizadas
 
